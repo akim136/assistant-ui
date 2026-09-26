@@ -1,0 +1,223 @@
+{
+  "browser": "154.0.8037.0",
+  "cases": [
+    {
+      "name": "baseline",
+      "layout": "empty footer",
+      "backward": false,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "baseline",
+      "layout": "empty footer",
+      "backward": true,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "baseline",
+      "layout": "whitespace separator",
+      "backward": false,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "baseline",
+      "layout": "whitespace separator",
+      "backward": true,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "baseline",
+      "layout": "empty prefix",
+      "backward": false,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "baseline",
+      "layout": "empty prefix",
+      "backward": true,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "baseline",
+      "layout": "combined",
+      "backward": false,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "baseline",
+      "layout": "combined",
+      "backward": true,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "baseline",
+      "layout": "footer text",
+      "backward": false,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "baseline",
+      "layout": "footer text",
+      "backward": true,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "baseline",
+      "layout": "header text",
+      "backward": false,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "baseline",
+      "layout": "header text",
+      "backward": true,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "baseline",
+      "layout": "empty exclusion",
+      "backward": false,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "baseline",
+      "layout": "empty exclusion",
+      "backward": true,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "baseline",
+      "layout": "stock Thread native triple-click",
+      "id": null,
+      "text": "First message with selectable text.\n\nCopyRefreshMore\n",
+      "anchorOffset": 0,
+      "focusOffset": 0,
+      "anchorMessage": "message-1",
+      "focusMessage": "message-2",
+      "toolbarVisible": false
+    },
+    {
+      "name": "fixed",
+      "layout": "empty footer",
+      "backward": false,
+      "id": "message-1",
+      "preserved": true
+    },
+    {
+      "name": "fixed",
+      "layout": "empty footer",
+      "backward": true,
+      "id": "message-1",
+      "preserved": true
+    },
+    {
+      "name": "fixed",
+      "layout": "whitespace separator",
+      "backward": false,
+      "id": "message-1",
+      "preserved": true
+    },
+    {
+      "name": "fixed",
+      "layout": "whitespace separator",
+      "backward": true,
+      "id": "message-1",
+      "preserved": true
+    },
+    {
+      "name": "fixed",
+      "layout": "empty prefix",
+      "backward": false,
+      "id": "message-1",
+      "preserved": true
+    },
+    {
+      "name": "fixed",
+      "layout": "empty prefix",
+      "backward": true,
+      "id": "message-1",
+      "preserved": true
+    },
+    {
+      "name": "fixed",
+      "layout": "combined",
+      "backward": false,
+      "id": "message-1",
+      "preserved": true
+    },
+    {
+      "name": "fixed",
+      "layout": "combined",
+      "backward": true,
+      "id": "message-1",
+      "preserved": true
+    },
+    {
+      "name": "fixed",
+      "layout": "footer text",
+      "backward": false,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "fixed",
+      "layout": "footer text",
+      "backward": true,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "fixed",
+      "layout": "header text",
+      "backward": false,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "fixed",
+      "layout": "header text",
+      "backward": true,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "fixed",
+      "layout": "empty exclusion",
+      "backward": false,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "fixed",
+      "layout": "empty exclusion",
+      "backward": true,
+      "id": null,
+      "preserved": true
+    },
+    {
+      "name": "fixed",
+      "layout": "stock Thread native triple-click",
+      "id": "message-1",
+      "text": "First message with selectable text.\n\nCopyRefreshMore\n",
+      "anchorOffset": 0,
+      "focusOffset": 0,
+      "anchorMessage": "message-1",
+      "focusMessage": "message-2",
+      "toolbarVisible": true
+    }
+  ]
+}
