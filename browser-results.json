@@ -1,0 +1,201 @@
+{
+  "browser": "154.0.8037.0",
+  "cases": [
+    {
+      "name": "baseline",
+      "mode": "default",
+      "action": "Escape",
+      "focused": "BODY",
+      "scrollPreserved": true
+    },
+    {
+      "name": "baseline",
+      "mode": "default",
+      "action": "Cancel",
+      "focused": "BODY",
+      "scrollPreserved": true
+    },
+    {
+      "name": "baseline",
+      "mode": "non-form",
+      "action": "Escape",
+      "focused": "BODY",
+      "scrollPreserved": true
+    },
+    {
+      "name": "baseline",
+      "mode": "non-form",
+      "action": "Cancel",
+      "focused": "BODY",
+      "scrollPreserved": true
+    },
+    {
+      "name": "baseline",
+      "mode": "unavailable",
+      "action": "Escape",
+      "focused": "BODY",
+      "scrollPreserved": true
+    },
+    {
+      "name": "baseline",
+      "mode": "unavailable",
+      "action": "Cancel",
+      "focused": "BODY",
+      "scrollPreserved": true
+    },
+    {
+      "name": "baseline",
+      "mode": "nested",
+      "action": "Escape",
+      "focused": "BODY",
+      "scrollPreserved": true
+    },
+    {
+      "name": "baseline",
+      "mode": "nested",
+      "action": "Cancel",
+      "focused": "BODY",
+      "scrollPreserved": true
+    },
+    {
+      "name": "baseline",
+      "mode": "missing",
+      "action": "Escape",
+      "focused": "BODY",
+      "scrollPreserved": true
+    },
+    {
+      "name": "baseline",
+      "mode": "missing",
+      "action": "Cancel",
+      "focused": "BODY",
+      "scrollPreserved": true
+    },
+    {
+      "name": "baseline",
+      "mode": "disabled",
+      "action": "Escape",
+      "focused": "BODY",
+      "scrollPreserved": true
+    },
+    {
+      "name": "baseline",
+      "mode": "disabled",
+      "action": "Cancel",
+      "focused": "BODY",
+      "scrollPreserved": true
+    },
+    {
+      "name": "baseline",
+      "mode": "redirect",
+      "action": "Escape",
+      "focused": "BODY",
+      "scrollPreserved": true
+    },
+    {
+      "name": "baseline",
+      "mode": "redirect",
+      "action": "Cancel",
+      "focused": "Outside thread",
+      "scrollPreserved": true
+    },
+    {
+      "name": "fixed",
+      "mode": "default",
+      "action": "Escape",
+      "focused": "Main composer",
+      "scrollPreserved": true
+    },
+    {
+      "name": "fixed",
+      "mode": "default",
+      "action": "Cancel",
+      "focused": "Main composer",
+      "scrollPreserved": true
+    },
+    {
+      "name": "fixed",
+      "mode": "non-form",
+      "action": "Escape",
+      "focused": "Main composer",
+      "scrollPreserved": true
+    },
+    {
+      "name": "fixed",
+      "mode": "non-form",
+      "action": "Cancel",
+      "focused": "Main composer",
+      "scrollPreserved": true
+    },
+    {
+      "name": "fixed",
+      "mode": "unavailable",
+      "action": "Escape",
+      "focused": "Main composer",
+      "scrollPreserved": true
+    },
+    {
+      "name": "fixed",
+      "mode": "unavailable",
+      "action": "Cancel",
+      "focused": "Main composer",
+      "scrollPreserved": true
+    },
+    {
+      "name": "fixed",
+      "mode": "nested",
+      "action": "Escape",
+      "focused": "Main composer",
+      "scrollPreserved": true
+    },
+    {
+      "name": "fixed",
+      "mode": "nested",
+      "action": "Cancel",
+      "focused": "Main composer",
+      "scrollPreserved": true
+    },
+    {
+      "name": "fixed",
+      "mode": "missing",
+      "action": "Escape",
+      "focused": "BODY",
+      "scrollPreserved": true
+    },
+    {
+      "name": "fixed",
+      "mode": "missing",
+      "action": "Cancel",
+      "focused": "BODY",
+      "scrollPreserved": true
+    },
+    {
+      "name": "fixed",
+      "mode": "disabled",
+      "action": "Escape",
+      "focused": "BODY",
+      "scrollPreserved": true
+    },
+    {
+      "name": "fixed",
+      "mode": "disabled",
+      "action": "Cancel",
+      "focused": "BODY",
+      "scrollPreserved": true
+    },
+    {
+      "name": "fixed",
+      "mode": "redirect",
+      "action": "Escape",
+      "focused": "Main composer",
+      "scrollPreserved": true
+    },
+    {
+      "name": "fixed",
+      "mode": "redirect",
+      "action": "Cancel",
+      "focused": "Outside thread",
+      "scrollPreserved": true
+    }
+  ]
+}
