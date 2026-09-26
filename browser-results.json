@@ -100,6 +100,18 @@
       "scrollPreserved": true
     },
     {
+      "name": "baseline",
+      "mode": "default",
+      "action": "mouse",
+      "focused": "BODY"
+    },
+    {
+      "name": "baseline",
+      "mode": "default",
+      "action": "touch",
+      "focused": "BODY"
+    },
+    {
       "name": "fixed",
       "mode": "default",
       "action": "Escape",
@@ -196,6 +208,18 @@
       "action": "Cancel",
       "focused": "Outside thread",
       "scrollPreserved": true
+    },
+    {
+      "name": "fixed",
+      "mode": "default",
+      "action": "mouse",
+      "focused": "BODY"
+    },
+    {
+      "name": "fixed",
+      "mode": "default",
+      "action": "touch",
+      "focused": "BODY"
     }
   ]
 }
