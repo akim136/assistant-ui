@@ -1,0 +1,185 @@
+{
+  "browser": "154.0.8037.0",
+  "cases": [
+    {
+      "name": "before",
+      "layout": "excluded endpoint ancestors",
+      "backward": false,
+      "id": null,
+      "text": "First message text.\n\n",
+      "preserved": true,
+      "toolbarVisible": false
+    },
+    {
+      "name": "before",
+      "layout": "excluded endpoint ancestors",
+      "backward": true,
+      "id": null,
+      "text": "First message text.\n\n",
+      "preserved": true,
+      "toolbarVisible": false
+    },
+    {
+      "name": "before",
+      "layout": "empty inherited exclusion",
+      "backward": false,
+      "id": null,
+      "text": "First message text.\n\n",
+      "preserved": true,
+      "toolbarVisible": false
+    },
+    {
+      "name": "before",
+      "layout": "empty inherited exclusion",
+      "backward": true,
+      "id": null,
+      "text": "First message text.\n\n",
+      "preserved": true,
+      "toolbarVisible": false
+    },
+    {
+      "name": "before",
+      "layout": "whitespace inherited exclusion",
+      "backward": false,
+      "id": null,
+      "text": "First message text.\n\n",
+      "preserved": true,
+      "toolbarVisible": false
+    },
+    {
+      "name": "before",
+      "layout": "whitespace inherited exclusion",
+      "backward": true,
+      "id": null,
+      "text": "First message text.\n\n",
+      "preserved": true,
+      "toolbarVisible": false
+    },
+    {
+      "name": "before",
+      "layout": "text inherited exclusion",
+      "backward": false,
+      "id": null,
+      "text": "First message text.\n\nExcluded header\n",
+      "preserved": true,
+      "toolbarVisible": false
+    },
+    {
+      "name": "before",
+      "layout": "text inherited exclusion",
+      "backward": true,
+      "id": null,
+      "text": "First message text.\n\nExcluded header\n",
+      "preserved": true,
+      "toolbarVisible": false
+    },
+    {
+      "name": "before",
+      "layout": "one excluded character selected",
+      "backward": false,
+      "id": null,
+      "text": "First message text.\n\nS",
+      "preserved": true,
+      "toolbarVisible": false
+    },
+    {
+      "name": "before",
+      "layout": "one excluded character selected",
+      "backward": true,
+      "id": null,
+      "text": "First message text.\n\nS",
+      "preserved": true,
+      "toolbarVisible": false
+    },
+    {
+      "name": "after",
+      "layout": "excluded endpoint ancestors",
+      "backward": false,
+      "id": "message-1",
+      "text": "First message text.\n\n",
+      "preserved": true,
+      "toolbarVisible": true
+    },
+    {
+      "name": "after",
+      "layout": "excluded endpoint ancestors",
+      "backward": true,
+      "id": "message-1",
+      "text": "First message text.\n\n",
+      "preserved": true,
+      "toolbarVisible": true
+    },
+    {
+      "name": "after",
+      "layout": "empty inherited exclusion",
+      "backward": false,
+      "id": null,
+      "text": "First message text.\n\n",
+      "preserved": true,
+      "toolbarVisible": false
+    },
+    {
+      "name": "after",
+      "layout": "empty inherited exclusion",
+      "backward": true,
+      "id": null,
+      "text": "First message text.\n\n",
+      "preserved": true,
+      "toolbarVisible": false
+    },
+    {
+      "name": "after",
+      "layout": "whitespace inherited exclusion",
+      "backward": false,
+      "id": null,
+      "text": "First message text.\n\n",
+      "preserved": true,
+      "toolbarVisible": false
+    },
+    {
+      "name": "after",
+      "layout": "whitespace inherited exclusion",
+      "backward": true,
+      "id": null,
+      "text": "First message text.\n\n",
+      "preserved": true,
+      "toolbarVisible": false
+    },
+    {
+      "name": "after",
+      "layout": "text inherited exclusion",
+      "backward": false,
+      "id": null,
+      "text": "First message text.\n\nExcluded header\n",
+      "preserved": true,
+      "toolbarVisible": false
+    },
+    {
+      "name": "after",
+      "layout": "text inherited exclusion",
+      "backward": true,
+      "id": null,
+      "text": "First message text.\n\nExcluded header\n",
+      "preserved": true,
+      "toolbarVisible": false
+    },
+    {
+      "name": "after",
+      "layout": "one excluded character selected",
+      "backward": false,
+      "id": null,
+      "text": "First message text.\n\nS",
+      "preserved": true,
+      "toolbarVisible": false
+    },
+    {
+      "name": "after",
+      "layout": "one excluded character selected",
+      "backward": true,
+      "id": null,
+      "text": "First message text.\n\nS",
+      "preserved": true,
+      "toolbarVisible": false
+    }
+  ]
+}
